@@ -1,0 +1,1 @@
+CREATE DATABASE funeral_planner;
